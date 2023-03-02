@@ -1,0 +1,11 @@
+.App {
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color : aliceblue
+}
+
+.details {
+  
+}
